@@ -25,6 +25,4 @@ I'm always looking for ways to improve my skills and knowledge. If you're lookin
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JaredMZ.JaredMZ)
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaredMZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
 
