@@ -22,7 +22,6 @@ I'm always looking for ways to improve my skills and knowledge. If you're lookin
   - [Medium](https://medium.com/@jaredcv04)
   - [Linkedin](https://www.linkedin.com/in/jared-martinez-652201170/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JaredMZ.JaredMZ)
 
 
 
