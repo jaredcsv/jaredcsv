@@ -14,7 +14,7 @@ During this time of learning I got these technical skills:
 I'm always looking for ways to improve my skills and knowledge. If you're looking for a dedicated and passionate web developer with skills in Salesforce, please don't hesitate to reach out to me. I'm excited to learn and work together. 
 
 - 🔭 I’m currently working on own small project in order to get experience!
-- 🌱 I’m currently learning Salesforce!
+- 🌱 I’m currently learning Salesforce Apex, and ReactJS!
 - 👯 I’m looking to collaborate on Salesforce Projects!
 - 🤔 If you have an advice feel free to reach out! :D
 - 💬 Ask me about whatever you want to know.
