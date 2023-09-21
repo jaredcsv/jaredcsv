@@ -4,7 +4,8 @@ I'm Jared Martinez, I'm a self-taught developer. I started studying on my own, e
 
 During this time of learning I got these technical skills:
 
-- Salesforce App Builder Certification 
+- Salesforce Platform
+- Apex
 - HTML
 - CSS
 - JavasScript
