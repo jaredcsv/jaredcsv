@@ -1,11 +1,12 @@
 # Hello there, Welcome to my profile!! :sunglasses:
 
-I'm Jared Martinez, I'm a self-taught developer. I started studying on my own, even though it is a difficult path, I have found people willing to help and teach. While I don't have any professional experience in these fields yet, I have been honing my skills through personal projects.
+I am a dedicated and self-driven individual with a strong passion for technology. My education, certifications, and hands-on projects have provided me with a solid foundation in the tech industry. I am enthusiastic about leveraging my technical expertise to embark on a new and diverse journey within the IT field. I am eager to apply my knowledge and adapt my skills to excel in various IT roles and contribute effectively within a professional setting.
 
 During this time of learning I got these technical skills:
 
 - Salesforce Platform
 - Apex
+- ReactJS
 - HTML
 - CSS
 - JavasScript
