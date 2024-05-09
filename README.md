@@ -3,17 +3,22 @@
 
 
 ### 🚀 About Me
+##### Salesforce Platform Developer I
+
+##### Salesforce Platform App Builder
+
 I'm a Salesforce & Web Developer, and I'm open to any opportunities.
 
 Please don't hesitate to reach out if you have any insight.
 
 [Jared Martinez Website](https://jaredmartinez.vercel.app/)
 ### 🛠 Skills
-Salesforce, Apex, LWC
 
-ReactJS, JavaScript, TailwindCSS
+#### Salesforce, Apex, LWC 
 
-SQL, SOQL, SOSL
+#### ReactJS, JavaScript, TailwindCSS
+
+#### SQL, SOQL, SOSL
 
 Figma, Trello, Slack
 ### 🔗 Socials
